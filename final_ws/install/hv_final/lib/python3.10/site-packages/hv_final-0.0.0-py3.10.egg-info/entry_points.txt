@@ -1,0 +1,3 @@
+[console_scripts]
+robot_control = hv_final.robot_control:main
+sign_vision = hv_final.sign_vision:main
